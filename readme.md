@@ -18,12 +18,63 @@ To ensure the community stays current with ongoing advances, the repository is c
 Whether you are a researcher exploring lattice reductions, a developer implementing post-quantum TLS, or a policy expert preparing for the quantum transition, this resource provides a centralized and evolving platform to explore the rapidly expanding landscape of quantum-safe cryptography.
 
 ## Last Updated
+October 12, 2025 at 03:20:33 AM UTC
 
-October 12, 2025 at 01:54:19 AM UTC
 
 ## Theorem
 
-## Papers (0)
+## Papers (50)
+- [AI-Driven Post-Quantum Cryptography for Cyber-Resilient V2X Communication in Transportation Cyber-Physical Systems](https://arxiv.org/abs/2510.08496)
+- [Obfuscated Quantum and Post-Quantum Cryptography](https://arxiv.org/abs/2508.07635)
+- [Hybrid Schemes of NIST Post-Quantum Cryptography Standard Algorithms and Quantum Key Distribution for Key Exchange and Digital Signature](https://arxiv.org/abs/2510.02379)
+- [Future-Proofing Cloud Security Against Quantum Attacks: Risk, Transition, and Mitigation Strategies](https://arxiv.org/abs/2509.15653)
+- [A Hybrid Encryption Framework Combining Classical, Post-Quantum, and QKD Methods](https://arxiv.org/abs/2509.10551)
+- [Literature Review of the Effect of Quantum Computing on Cryptocurrencies using Blockchain Technology](https://arxiv.org/abs/2508.17296)
+- [Error Detection Schemes for Barrett Reduction of CT-BU on FPGA in Post Quantum Cryptography](https://arxiv.org/abs/2509.04070)
+- [Are Enterprises Ready for Quantum-Safe Cybersecurity?](https://arxiv.org/abs/2509.01731)
+- [Quantum Leap in Finance: Economic Advantages, Security, and Post-Quantum Readiness](https://arxiv.org/abs/2508.21548)
+- [Integration of quantum random number generators with post-quantum cryptography algorithms](https://arxiv.org/abs/2507.00658)
+- [Post-Quantum Blockchain: Challenges and Opportunities](https://arxiv.org/abs/2508.17071)
+- [The Aegis Protocol: A Foundational Security Framework for Autonomous AI Agents](https://arxiv.org/abs/2508.19267)
+- [A Survey of Post-Quantum Cryptography Support in Cryptographic Libraries](https://arxiv.org/abs/2508.16078)
+- [A Constant-Time Hardware Architecture for the CSIDH Key-Exchange Protocol](https://arxiv.org/abs/2508.11082)
+- [Ciphertext Malleability in Lattice-Based KEMs as a Countermeasure to Side Channel Analysis](https://arxiv.org/abs/2409.16107)
+- [A Comparative Performance Evaluation of Kyber, sntrup761, and FrodoKEM for Post-Quantum Cryptography](https://arxiv.org/abs/2508.10023)
+- [On Post-Quantum Cryptography Authentication for Quantum Key Distribution](https://arxiv.org/abs/2507.21325)
+- [NIST Post-Quantum Cryptography Standard Algorithms Based on Quantum Random Number Generators](https://arxiv.org/abs/2507.21151)
+- [Analysis of Post-Quantum Cryptography in User Equipment in 5G and Beyond](https://arxiv.org/abs/2507.17074)
+- [Quantum-Resilient Privacy Ledger (QRPL): A Sovereign Digital Currency for the Post-Quantum Era](https://arxiv.org/abs/2507.09067)
+- [Implementing and Evaluating Post-Quantum DNSSEC in CoreDNS](https://arxiv.org/abs/2507.09301)
+- [Evaluating Post-Quantum Cryptographic Algorithms on Resource-Constrained Devices](https://arxiv.org/abs/2507.08312)
+- [Performance Analysis and Deployment Considerations of Post-Quantum Cryptography for Consumer Electronics](https://arxiv.org/abs/2505.02239)
+- [LaSDVS : A Post-Quantum Secure Compact Strong-Designated Verifier Signature](https://arxiv.org/abs/2504.16571)
+- [Energy Consumption Framework and Analysis of Post-Quantum Key-Generation on Embedded Devices](https://arxiv.org/abs/2505.16614)
+- [Network-wide Quantum Key Distribution with Onion Routing Relay](https://arxiv.org/abs/2505.13239)
+- [Network-wide Quantum Key Distribution with Onion Routing Relay (Conference Version)](https://arxiv.org/abs/2505.13158)
+- [GDNTT: an Area-Efficient Parallel NTT Accelerator Using Glitch-Driven Near-Memory Computing and Reconfigurable 10T SRAM](https://arxiv.org/abs/2505.08162)
+- [Applied Post Quantum Cryptography: A Practical Approach for Generating Certificates in Industrial Environments](https://arxiv.org/abs/2505.04333)
+- [PQS-BFL: A Post-Quantum Secure Blockchain-based Federated Learning Framework](https://arxiv.org/abs/2505.01866)
+- [Energy-Efficient NTT Sampler for Kyber Benchmarked on FPGA](https://arxiv.org/abs/2505.01782)
+- [Onion Routing Key Distribution for QKDN](https://arxiv.org/abs/2502.06657)
+- [Post Quantum Cryptography (PQC) Signatures Without Trapdoors](https://arxiv.org/abs/2504.14016)
+- [Complexity of Post-Quantum Cryptography in Embedded Systems and Its Optimization Strategies](https://arxiv.org/abs/2504.13537)
+- [A Critical Analysis of Deployed Use Cases for Quantum Key Distribution and Comparison with Post-Quantum Cryptography](https://arxiv.org/abs/2502.04009)
+- [PQ-CAN: A Framework for Simulating Post-Quantum Cryptography in Embedded Systems](https://arxiv.org/abs/2504.10730)
+- [PLS-Assisted Offloading for Edge Computing-Enabled Post-Quantum Security in Resource-Constrained Devices](https://arxiv.org/abs/2504.09437)
+- [Performance Analysis and Industry Deployment of Post-Quantum Cryptography Algorithms](https://arxiv.org/abs/2503.12952)
+- [Cryptoscope: Analyzing cryptographic usages in modern software](https://arxiv.org/abs/2503.19531)
+- [Cyber Threats in Financial Transactions -- Addressing the Dual Challenge of AI and Quantum Computing](https://arxiv.org/abs/2503.15678)
+- [Post Quantum Migration of Tor](https://arxiv.org/abs/2503.10238)
+- [An Improved Two-Step Attack on Lattice-Based Cryptography: A Case Study of Kyber](https://arxiv.org/abs/2407.06942)
+- [The Post-Quantum Cryptography Transition: Making Progress, But Still a Long Road Ahead](https://arxiv.org/abs/2503.04806)
+- [Quantum-Safe integration of TLS in SDN networks](https://arxiv.org/abs/2502.17202)
+- [5G-AKA-HPQC: Hybrid Post-Quantum Cryptography Protocol for Quantum-Resilient 5G Primary Authentication with Forward Secrecy](https://arxiv.org/abs/2502.02851)
+- [Preparing for Kyber in Securing Intelligent Transportation Systems Communications: A Case Study on Fault-Enabled Chosen-Ciphertext Attack](https://arxiv.org/abs/2502.01848)
+- [Introducing Post-Quantum algorithms in Open RAN interfaces](https://arxiv.org/abs/2501.10060)
+- [Hybrid Scheme of Post-Quantum Cryptography and Elliptic-Curve Cryptography for Certificates -- A Case Study of Security Credential Management System in Vehicle-to-Everything Communications](https://arxiv.org/abs/2501.07028)
+- [Post-Quantum Cryptography(PQC): Generalized ElGamal Cipher over GL(8,F251)](https://arxiv.org/abs/1702.03587)
+- [One-Time Signature Based on Pseudorandom Number Generator](https://arxiv.org/abs/2501.10393)
+
 
 ## Library
 
