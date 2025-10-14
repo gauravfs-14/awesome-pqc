@@ -2,16 +2,33 @@
 
 ![Awesome](https://awesome.re/badge.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![GitHub Contributors](https://img.shields.io/github/contributors/gauravfs-14/awesom-pqc.svg)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/gauravfs-14/awesom-pqc.svg)
-[![GitHub Stars](https://img.shields.io/github/stars/gauravfs-14/awesom-pqc.svg?style=social)](https://github.com/gauravfs-14/awesom-pqc)
-![GitHub Forks](https://img.shields.io/github/forks/gauravfs-14/awesom-pqc.svg)
+![GitHub Contributors](https://img.shields.io/github/contributors/gauravfs-14/awesome-pqc.svg)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/gauravfs-14/awesome-pqc.svg)
+[![GitHub Stars](https://img.shields.io/github/stars/gauravfs-14/awesome-pqc.svg?style=social)](https://github.com/gauravfs-14/awesome-pqc)
+![GitHub Forks](https://img.shields.io/github/forks/gauravfs-14/awesome-pqc.svg)
 
 A carefully curated collection of high-quality resources, tools, research papers, implementations, and tutorials dedicated to Post-Quantum Cryptography (PQC) — the emerging frontier of cryptographic security designed to withstand quantum adversaries. This repository serves as a comprehensive, structured knowledge hub for researchers, engineers, and policymakers working toward building a quantum-resilient digital infrastructure.
 
 PQC represents a paradigm shift in secure communication, focusing on mathematical problems that remain intractable even for large-scale quantum computers. The collection covers all major algorithmic families — lattice-based, code-based, hash-based, multivariate, isogeny-based, and MPC-in-the-Head schemes — as well as topics spanning implementation security, hardware acceleration, hybrid protocols, and cryptographic migration strategies.
 
 By organizing both foundational and applied materials, this repository bridges the gap between theoretical cryptography and real-world deployment. It includes resources on the NIST PQC standardization process, hardware optimizations for ML-KEM and ML-DSA, integration guides for IoT and embedded devices, and up-to-date results on side-channel resistance, performance benchmarking, and hybrid key exchange.
+
+> [!NOTE]
+> 📢 **Announcement:** Our paper is now available on [arXiv](https://arxiv.org/abs/2510.10436)!  
+> **Title:** *Post-Quantum Cryptography and Quantum-Safe Security: A Comprehensive Survey*  
+> If you find this paper interesting, please consider citing our work. Thank you for your support!
+
+```bibtex
+@misc{chhetri2025postquantumcryptographyquantumsafesecurity,
+      title={Post-Quantum Cryptography and Quantum-Safe Security: A Comprehensive Survey}, 
+      author={Gaurab Chhetri and Shriyank Somvanshi and Pavan Hebli and Shamyo Brotee and Subasish Das},
+      year={2025},
+      eprint={2510.10436},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2510.10436}, 
+}
+```
 
 To ensure the community stays current with ongoing advances, the repository is continuously updated with the latest PQC research papers, open-source implementations, and comparative studies. It highlights ongoing trends in crypto-agility, secure migration frameworks, and quantum-safe protocol design for domains such as finance, defense, and blockchain systems.
 
@@ -110,4 +127,4 @@ This repository is licensed under the [Creative Commons Attribution 4.0 Internat
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=gauravfs-14/awesom-pqc)](https://star-history.com/#gauravfs-14/awesom-pqc&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=gauravfs-14/awesome-pqc)](https://star-history.com/#gauravfs-14/awesome-pqc&Date)
