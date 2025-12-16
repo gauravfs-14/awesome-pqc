@@ -35,7 +35,7 @@ To ensure the community stays current with ongoing advances, the repository is c
 Whether you are a researcher exploring lattice reductions, a developer implementing post-quantum TLS, or a policy expert preparing for the quantum transition, this resource provides a centralized and evolving platform to explore the rapidly expanding landscape of quantum-safe cryptography.
 
 ## Last Updated
-December 15, 2025 at 12:46:33 AM UTC
+December 16, 2025 at 12:44:29 AM UTC
 
 
 ## Theorem
