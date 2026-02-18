@@ -35,12 +35,12 @@ To ensure the community stays current with ongoing advances, the repository is c
 Whether you are a researcher exploring lattice reductions, a developer implementing post-quantum TLS, or a policy expert preparing for the quantum transition, this resource provides a centralized and evolving platform to explore the rapidly expanding landscape of quantum-safe cryptography.
 
 ## Last Updated
-February 17, 2026 at 12:58:06 AM UTC
+February 18, 2026 at 01:00:02 AM UTC
 
 
 ## Theorem
 
-## Papers (85)
+## Papers (86)
 - [AI-Driven Post-Quantum Cryptography for Cyber-Resilient V2X Communication in Transportation Cyber-Physical Systems](https://arxiv.org/abs/2510.08496)
 - [Obfuscated Quantum and Post-Quantum Cryptography](https://arxiv.org/abs/2508.07635)
 - [Hybrid Schemes of NIST Post-Quantum Cryptography Standard Algorithms and Quantum Key Distribution for Key Exchange and Digital Signature](https://arxiv.org/abs/2510.02379)
@@ -126,6 +126,7 @@ February 17, 2026 at 12:58:06 AM UTC
 - [Accelerating Post-Quantum Cryptography via LLM-Driven Hardware-Software Co-Design](https://arxiv.org/abs/2602.09410)
 - [Solving the Post-Quantum Control Plane Bottleneck: Energy-Aware Cryptographic Scheduling in Open RAN](https://arxiv.org/abs/2602.11820)
 - [Securing Cloud Computing Against Quantum Threats: Risk Assessment, Transition and Migration Strategies](https://arxiv.org/abs/2509.15653)
+- [When Security Meets Usability: An Empirical Investigation of Post-Quantum Cryptography APIs](https://arxiv.org/abs/2602.14539)
 
 
 ## Library
